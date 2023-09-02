@@ -20,6 +20,7 @@ def generate_launch_description():
             arguments=[ node_name
             ],
             output='screen',
+            emulate_tty=True,
         )
         ld.add_action(TimerAction(period=1.0,
                                   actions=[node],))
