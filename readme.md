@@ -1,3 +1,14 @@
+# Training Modules
+
+**Description:** This repository consist of all templates required to understand different conncepts of ROS2. We will be adding more information about such as FAQ's, Most common errors,etc. 
+Feel free to use the templates in your own projects.
+
+
+## Week 1 Instructions:
+
+[Link to Instructions](week1.md)
+
+## Mostly Used ROS2 Commands
 ### Create Workspace
 
 ```bash
