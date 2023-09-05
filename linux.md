@@ -42,4 +42,9 @@ rm - <folder_name>
 chmod +x <file_name.py>
 ```
 
+### Editing Bash Script Easy Sourcng
+```bash
+cat easy_source.sh >> ~/.bashrc
+
+```
 
