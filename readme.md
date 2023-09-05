@@ -4,9 +4,13 @@
 Feel free to use the templates in your own projects.
 
 
-## Week 1 Instructions:
+## Week 2 Instructions:
 
-[Link to Instructions](week1.md)
+[Link to Instructions](week2.md)
+
+
+## Linux Basic Commands
+[Link to Commands](linux.md)
 
 ## Mostly Used ROS2 Commands
 ### Create Workspace
